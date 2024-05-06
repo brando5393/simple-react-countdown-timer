@@ -1,0 +1,11 @@
+.navbar {
+  background-color: #8d93ab;
+  border-radius: 15px 50px;
+  position: fixed;
+  margin: 5px;
+}
+
+.navbar button {
+  background-color: #393b44;
+  color: #f1f3f8;
+}
